@@ -1,5 +1,5 @@
 <?php
-$title = 'charlie\'s galery';
+$title = 'charlie\'s gallery';
 $name = 'charlie';
 
 require('components/header.php');

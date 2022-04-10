@@ -1,0 +1,26 @@
+h1, h2, footer {
+    font-family: "SF Pro Display";
+  }
+
+.container {
+    width: 550px;
+    margin: 0 auto;
+  }
+
+.page {
+    display: flex;
+    flex-direction: column;
+    min-width: 640px;
+    margin: auto;
+    font-family: "SF Pro Display";
+    font-size: 14px;
+    line-height: 30px;
+    color: black;
+    background-color: #b1bccf;
+    padding: 10px;
+  }
+  
+@font-face {
+  font-family: "SF Pro Display";
+  src: url(fonts/SFProDisplay-Regular.ttf);
+}
